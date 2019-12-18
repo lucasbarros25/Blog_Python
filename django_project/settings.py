@@ -25,7 +25,7 @@ SECRET_KEY = 'qy!c!&fs_w#wfs9l6ra25fea+3hfqy_lin^v^4hlf(!4w&pe1w'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://nitpicker.herokuapp.com']
+ALLOWED_HOSTS = ['nitpicker.herokuapp.com']
 
 
 # Application definition
